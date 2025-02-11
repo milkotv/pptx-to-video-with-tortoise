@@ -1,5 +1,5 @@
-# pptx-to-video
-Convert a powerpoint presentation (pptx) to video (mp4) using text-to-speech with the presenter notes or slide text.
+# pptx-to-video-with-tortoise
+Convert a powerpoint presentation (pptx) to video (mp4) using text-to-speech (via tortoise-tts) with the presenter notes or slide text.
 
 ```
 usage: pptx_to_video.py [-h] -p pptx_file -o mp4_file
